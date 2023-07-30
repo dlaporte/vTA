@@ -1,0 +1,7 @@
+constants.py
+__pycache__
+chroma_db/
+data/
+env
+.DS_Store
+.chroma/
